@@ -1,4 +1,4 @@
-print("Code for HCM of two number:\n")
+print("Code for HCF of two number:\n")
 print()
 num1=int(input("Enter first number :\n"))
 num2=int(input('Enter second number :\n'))
